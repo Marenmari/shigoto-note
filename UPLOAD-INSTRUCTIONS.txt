@@ -1,0 +1,18 @@
+今回の新記事
+タイトル: AI副業のプロフィール文の書き方｜初心者向け例文と5つのポイント
+
+GitHubでアップロードする場所
+1. articles/ai-sidejob-profile-writing.html → リポジトリの articles フォルダ
+2. images/covers/ai-sidejob-profile-writing.png → リポジトリの images/covers フォルダ
+
+公開予定URL
+https://marensidejob.github.io/shigoto-note/articles/ai-sidejob-profile-writing.html
+
+トップページの新着記事へ追加するときのリンク
+articles/ai-sidejob-profile-writing.html
+
+画像の指定
+images/covers/ai-sidejob-profile-writing.png
+
+サイトマップへ追加するURL
+<url><loc>https://marensidejob.github.io/shigoto-note/articles/ai-sidejob-profile-writing.html</loc></url>
